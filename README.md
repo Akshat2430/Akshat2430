@@ -7,4 +7,3 @@ Python | SQL | C | HTML | Javascript | Excel | Tableau | Powerpoint
 - 💬 Ask me about my blog/newsletter on Substack ([Check it out!](https://pythonpandas.substack.com/))
 - 📫 How to reach me: Drop me a mail at akharbanda1@hotmail.com, or check out my [LinkedIn](https://www.linkedin.com/in/akshat-kharbanda-b91986148/)!
 - 😄 Pronouns: He/Him
--->
